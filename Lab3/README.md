@@ -20,5 +20,5 @@ plot(1:6, exp1, type="l", col="cyan", ylim = c(0.114, 0.395))
 lines(1:6, exp2_ing, col="magenta")
 print(min(exp2_ing)/min(exp1))
 ```
-![Plot](plot.png)
+![Plot](plot.png) <br>
 *Вывод:* скорость исчезновения пероксида водорода в присутствии азила натрия возросла в 3.184211 раза
